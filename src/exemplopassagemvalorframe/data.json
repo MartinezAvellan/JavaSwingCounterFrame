@@ -1,0 +1,92 @@
+[
+   {
+      "Nível":1,
+      "pergunta":"Qual seu nome?",
+      "respostas":[
+         {
+            "resposta":"Meu nome é Carlos"
+         },
+         {
+            "resposta":"Meu nome é Hugo"
+         },
+         {
+            "resposta":"Meu nome é Rodrigo"
+         },
+         {
+            "resposta":"Meu nome é Douglas"
+         }
+      ]
+   },
+   {
+      "Nível":2,
+      "pergunta":"Qual sua idade?",
+      "respostas":[
+         {
+            "resposta":"18 anos"
+         },
+         {
+            "resposta":"15 anos"
+         },
+         {
+            "resposta":"30 anos"
+         },
+         {
+            "resposta":"31 anos"
+         }
+      ]
+   },
+   {
+      "Nível":3,
+      "pergunta":"Qual seu sexo?",
+      "respostas":[
+         {
+            "resposta":"Masculino"
+         },
+         {
+            "resposta":"Feminino"
+         },
+         {
+            "resposta":"Gay"
+         },
+         {
+            "resposta":"Bichona"
+         }
+      ]
+   },
+   {
+      "Nível":4,
+      "pergunta":"Qual seu time?",
+      "respostas":[
+         {
+            "resposta":"São paulo por causa do Zezinho"
+         },
+         {
+            "resposta":"Curinthians"
+         },
+         {
+            "resposta":"palmeiras"
+         },
+         {
+            "resposta":"Santos"
+         }
+      ]
+   },
+   {
+      "Nível":5,
+      "pergunta":"Qual seu signo?",
+      "respostas":[
+         {
+            "resposta":"Áries"
+         },
+         {
+            "resposta":"Peixes"
+         },
+         {
+            "resposta":"Aquário"
+         },
+         {
+            "resposta":"Escorpião"
+         }
+      ]
+   }
+]
